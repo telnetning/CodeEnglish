@@ -1,2 +1,34 @@
 # CodeEnglish
 Learn IT English in a stupid method.
+--------
+单词来源：所有自己阅读的文档  
+每一个单词理论上包括：
+  
++  单词
++  例句及例句来源
++  示意及说明
+
+--------
+
+#### provability
+
+```
+There are theoretical and practical advantages to the function style:
+1.  Formal provability
+...
+```
+[docs.python.org--Function Programming HOWTO](docs.python.org/2/howto/functional.html)
+
+def. 可证的
+
+#### modularity 
+
+```
+There are theoretical and practical advantages to the function style:
+...
+2. Modularity
+...
+```
+[docs.python.org--Function Programming HOWTO](docs.python.org/2/howto/functional.html)
+
+def. 模块性
