@@ -222,9 +222,9 @@ def. 琐粹的，琐细的
 
 #### revision
 <pre>
-Revision history and acknowledgements.
+<b>Revision</b> history and acknowledgements.
 
-rc: <a href="https://docs.python.org/2/howto/functional.html">python doc/Function Programming HOWTO</a>
+src: <a href="https://docs.python.org/2/howto/functional.html">python doc/Function Programming HOWTO</a>
 </pre>
 
 def. 修正
