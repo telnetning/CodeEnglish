@@ -16,8 +16,9 @@ Learn IT English in a stupid method.
 There are theoretical and practical advantages to the function style:
 1.  Formal <b>provability</b>
 ...
+
+src: <a href="docs.python.org/2/howto/functional.html">python doc/Function Programming HOWTO</a>
 </pre>
-[docs.python.org--Function Programming HOWTO](docs.python.org/2/howto/functional.html)
 
 def. 可证的
 
