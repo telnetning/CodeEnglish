@@ -12,23 +12,26 @@ Learn IT English in a stupid method.
 
 #### provability
 
-```
+<pre>
 There are theoretical and practical advantages to the function style:
-1.  Formal provability
+1.  Formal <b>provability</b>
 ...
-```
+</pre>
 [docs.python.org--Function Programming HOWTO](docs.python.org/2/howto/functional.html)
 
 def. 可证的
 
 #### modularity 
 
-```
+<pre>
 There are theoretical and practical advantages to the function style:
 ...
-2. Modularity
+2. <b>Modularity</b>
 ...
-```
+</pre>
+
 [docs.python.org--Function Programming HOWTO](docs.python.org/2/howto/functional.html)
 
 def. 模块性
+
+
