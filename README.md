@@ -100,7 +100,7 @@ def. 圆括号
 #### product
 
 <pre>
-...the length of the resulting output will be equal to the <b>product<b> of the lengths of all the sequences.
+...the length of the resulting output will be equal to the <b>product</b> of the lengths of all the sequences.
 
 
 src: <a href="https://docs.python.org/2/howto/functional.html">python doc/Function Programming HOWTO</a>
