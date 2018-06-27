@@ -228,3 +228,12 @@ src: <a href="https://docs.python.org/2/howto/functional.html">python doc/Functi
 </pre>
 
 def. 修正
+
+#### collaborator
+<pre>
+Use GPG keys to sign your work locally and verify work from trusted <b>collaborators</b>.
+
+src: <a href="https://help.github.com/articles/signing-commits-with-gpg/">github help/GPG</a>
+</pre>
+
+def. 合作者
