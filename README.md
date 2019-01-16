@@ -48,7 +48,7 @@ def. 许多的
 #### rigorous
 
 <pre>
-...the goal is instead a rigorous proof that a program produces the right result for all possible inputs.
+...the goal is instead a <b>rigorous</b> proof that a program produces the right result for all possible inputs.
 
 
 src: <a href="https://docs.python.org/2/howto/functional.html">python doc/Function Programming HOWTO</a>
@@ -147,7 +147,7 @@ def. 元组
 
 #### predicate
 <pre>
-...you'll often need little functions that act as predicates or...
+...you'll often need little functions that act as <b>predicates</b> or...
 
 
 src: <a href="https://docs.python.org/2/howto/functional.html">python doc/Function Programming HOWTO</a>
@@ -166,7 +166,7 @@ def. 重构
 
 #### essence
 <pre>
-Study the commnet for a while, and think of a name that captures the essence of the comment.
+Study the commnet for a while, and think of a name that captures the <b>essence</b> of the comment.
 
 src: <a href="https://docs.python.org/2/howto/functional.html">python doc/Function Programming HOWTO</a>
 </pre>
@@ -203,7 +203,7 @@ def. 任意的，武断的
 
 #### exhausted
 <pre>
-...until all of the iterables have been exhausted.
+...until all of the iterables have been <b>exhausted</b>.
 
 src: <a href="https://docs.python.org/2/howto/functional.html">python doc/Function Programming HOWTO</a>
 </pre>
